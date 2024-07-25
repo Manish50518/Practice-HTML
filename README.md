@@ -13,11 +13,11 @@
 |7    | Facebook Main login |``https://manish50518.github.io/Practice-HTML/boot%20face.html ``| [GO](https://manish50518.github.io/Practice-HTML/boot%20face.html) |
 |8    | Facebook Signin page |`` https://manish50518.github.io/Practice-HTML/facebook%20sign%20up%20page.html``| [GO](https://manish50518.github.io/Practice-HTML/facebook%20sign%20up%20page.html) |
 |9    | Flipkart 1st page |``https://manish50518.github.io/Practice-HTML/Flipkart%201st.html ``| [GO](https://manish50518.github.io/Practice-HTML/Flipkart%201st.html) |
-|5    | Form 1 |``https://manish50518.github.io/Practice-HTML/form%201.htm ``| [GO](https://manish50518.github.io/Practice-HTML/form%201.htm) |
-|5    | Form 2 |``https://manish50518.github.io/Practice-HTML/blob/main/form%202.html ``| [GO](https://manish50518.github.io/Practice-HTML/blob/main/form%202.html) |
-|5    | Form 3 |``https://manish50518.github.io/Practice-HTML/blob/main/form3.html ``| [GO](https://manish50518.github.io/Practice-HTML/blob/main/form3.html) |
-|5    | Form 4 |``https://manish50518.github.io/Practice-HTML/blob/main/form4.html ``| [GO](https://manish50518.github.io/Practice-HTML/blob/main/form4.html) |
-|5    | Form 5 |`` https://manish50518.github.io/Practice-HTML/blob/main/form5.htm``| [GO](https://manish50518.github.io/Practice-HTML/blob/main/form5.htm) |
+|5    | Form 1 |``https://manish50518.github.io/Practice-HTML/form%201.htm ``| [GO](https://manish50518.github.io/Practice-HTML/form%201.html) |
+|5    | Form 2 |``https://manish50518.github.io/Practice-HTML/form%202.html ``| [GO](https://manish50518.github.io/Practice-HTML/form%202.html) |
+|5    | Form 3 |``https://manish50518.github.io/Practice-HTML/form3.html ``| [GO](https://manish50518.github.io/Practice-HTML/form3.html) |
+|5    | Form 4 |``https://manish50518.github.io/Practice-HTML/form4.html``| [GO](https://manish50518.github.io/Practice-HTML/form4.html) |
+|5    | Form 5 |`` https://manish50518.github.io/Practice-HTML/form5.htm``| [GO](https://manish50518.github.io/Practice-HTML/form5.htm) |
 |5    | XML DOC |``https://manish50518.github.io/Practice-HTML/ ``| [GO](https://manish50518.github.io/Practice-HTML/Car%20table.html) |
 |5    | XML DOC |``https://manish50518.github.io/Practice-HTML/ ``| [GO](https://manish50518.github.io/Practice-HTML/Car%20table.html) |
 |5    | XML DOC |``https://manish50518.github.io/Practice-HTML/ ``| [GO](https://manish50518.github.io/Practice-HTML/Car%20table.html) |
