@@ -17,7 +17,7 @@
 |5    | Form 2 |``https://manish50518.github.io/Practice-HTML/form%202.html ``| [GO](https://manish50518.github.io/Practice-HTML/form%202.html) |
 |5    | Form 3 |``https://manish50518.github.io/Practice-HTML/form3.html ``| [GO](https://manish50518.github.io/Practice-HTML/form3.html) |
 |5    | Form 4 |``https://manish50518.github.io/Practice-HTML/form4.html``| [GO](https://manish50518.github.io/Practice-HTML/form4.html) |
-|5    | Form 5 |`` https://manish50518.github.io/Practice-HTML/form5.htm``| [GO](https://manish50518.github.io/Practice-HTML/form5.htm) |
+|5    | Form 5 |`` https://manish50518.github.io/Practice-HTML/form5.html``| [GO](https://manish50518.github.io/Practice-HTML/form5.html) |
 |5    | XML DOC |``https://manish50518.github.io/Practice-HTML/ ``| [GO](https://manish50518.github.io/Practice-HTML/Car%20table.html) |
 |5    | XML DOC |``https://manish50518.github.io/Practice-HTML/ ``| [GO](https://manish50518.github.io/Practice-HTML/Car%20table.html) |
 |5    | XML DOC |``https://manish50518.github.io/Practice-HTML/ ``| [GO](https://manish50518.github.io/Practice-HTML/Car%20table.html) |
