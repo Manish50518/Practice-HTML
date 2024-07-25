@@ -18,11 +18,10 @@
 |5    | Form 3 |``https://manish50518.github.io/Practice-HTML/form3.html ``| [GO](https://manish50518.github.io/Practice-HTML/form3.html) |
 |5    | Form 4 |``https://manish50518.github.io/Practice-HTML/form4.html``| [GO](https://manish50518.github.io/Practice-HTML/form4.html) |
 |5    | Form 5 |`` https://manish50518.github.io/Practice-HTML/form5.html``| [GO](https://manish50518.github.io/Practice-HTML/form5.html) |
-|5    | XML DOC |``https://manish50518.github.io/Practice-HTML/ ``| [GO](https://manish50518.github.io/Practice-HTML/Car%20table.html) |
-|5    | XML DOC |``https://manish50518.github.io/Practice-HTML/final%20face%20book.html ``| [GO](https://manish50518.github.io/Practice-HTML/final%20face%20book.html) |
-|5    | XML DOC |``https://manish50518.github.io/Practice-HTML/ ``| [GO](https://manish50518.github.io/Practice-HTML/Car%20table.html) |
-|5    | XML DOC |``https://manish50518.github.io/Practice-HTML/ ``| [GO](https://manish50518.github.io/Practice-HTML/Car%20table.html) |
-|5    | XML DOC |``https://manish50518.github.io/Practice-HTML/ ``| [GO](https://manish50518.github.io/Practice-HTML/Car%20table.html) |
+|5    | Final Facebook Signup |``https://manish50518.github.io/Practice-HTML/final%20face%20book.html ``| [GO](https://manish50518.github.io/Practice-HTML/final%20face%20book.html) |
+|5    | Log in to Facebook |``https://manish50518.github.io/Practice-HTML/Log%20in%20to%20Facebook.html ``| [GO](https://manish50518.github.io/Practice-HTML/Log%20in%20to%20Facebook.html) |
+|5    | Redbus |``https://manish50518.github.io/Practice-HTML/redbus.html ``| [GO](https://manish50518.github.io/Practice-HTML/redbus.html) |
+|5    | amazon sign in page |``https://manish50518.github.io/Practice-HTML/amazon%20sign%20in%20page.html ``| [GO](https://manish50518.github.io/Practice-HTML/amazon%20sign%20in%20page.html) |
 
 
 
