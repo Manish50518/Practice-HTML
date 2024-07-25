@@ -37,7 +37,7 @@
 | 30 | Amazon List |``https://manish50518.github.io/Practice-HTML/Amazon%20List.html``| [GO](https://manish50518.github.io/Practice-HTML/Amazon%20List.html) |
 | 31 | Amazon list using bootstarp |``https://manish50518.github.io/Practice-HTML/bootstrap%201%20amazon.html``| [GO](https://manish50518.github.io/Practice-HTML/bootstrap%201%20amazon.html) |
 | 33 | Amazon table 1 |``https://manish50518.github.io/Practice-HTML/Amazon%20table.html``| [GO](https://manish50518.github.io/Practice-HTML/Amazon%20table.html) |
-| 34 | Amazon table 2 |``https://manish50518.github.io/Practice-HTML/``| [GO](https://manish50518.github.io/Practice-HTML/) |
+| 34 | Amazon table 2 |``https://manish50518.github.io/Practice-HTML/amazon%202.html``| [GO](https://manish50518.github.io/Practice-HTML/amazon%202.html) |
 | 35 | Amazon table 3 |``https://manish50518.github.io/Practice-HTML/amazon%20table%203.html``| [GO](https://manish50518.github.io/Practice-HTML/amazon%20table%203.html) |
 | 36 | Demo list practice |``https://manish50518.github.io/Practice-HTML/mansangon.html``| [GO](https://manish50518.github.io/Practice-HTML/mansangon.html) |
 | 37 | Flipkart 1st page |``https://manish50518.github.io/Practice-HTML/Flipkart%201st.html ``| [GO](https://manish50518.github.io/Practice-HTML/Flipkart%201st.html) |
