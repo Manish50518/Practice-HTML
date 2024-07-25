@@ -3,7 +3,7 @@
 ---
 
 |S.No| Projects | Live Link | Click To Go  |
-|:---:| :-------:         |     :-------     | :---: |
+|:---:| :-------:         |     :-------:    | :---: |
 
 |1    | W3 School login |``https://manish50518.github.io/Practice-HTML/w3%20scl%20login.html``| [GO](https://manish50518.github.io/Practice-HTML/w3%20scl%20login.html) |
 |2    | Facebook Main login |``https://manish50518.github.io/Practice-HTML/boot%20face.html ``| [GO](https://manish50518.github.io/Practice-HTML/boot%20face.html) |
@@ -26,7 +26,7 @@
 |19    | Color Table |``https://manish50518.github.io/Practice-HTML/table%20tag.html``| [GO](https://manish50518.github.io/Practice-HTML/table%20tag.html) |
 |20    | Sample Table 1 |``https://manish50518.github.io/Practice-HTML/sample.html``| [GO](https://manish50518.github.io/Practice-HTML/sample.html) |
 |21    | Sample Table 2 |``https://manish50518.github.io/Practice-HTML/Table%202.html``| [GO](https://manish50518.github.io/Practice-HTML/Table%202.html) |
-|22    | &&& |``https://manish50518.github.io/Practice-HTML/``| [GO](https://manish50518.github.io/Practice-HTML/) |
+|22    | Amazon Footer |``https://manish50518.github.io/Practice-HTML/Amazon%20Footer.html``| [GO](https://manish50518.github.io/Practice-HTML/Amazon%20Footer.html) |
 |23    | &&& |``https://manish50518.github.io/Practice-HTML/``| [GO](https://manish50518.github.io/Practice-HTML/) |
 |24    | &&& |``https://manish50518.github.io/Practice-HTML/``| [GO](https://manish50518.github.io/Practice-HTML/) |
 |25    | &&& |``https://manish50518.github.io/Practice-HTML/``| [GO](https://manish50518.github.io/Practice-HTML/) |
