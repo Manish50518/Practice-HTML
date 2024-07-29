@@ -42,6 +42,3 @@
 | 36 | Demo list practice |`` https://manish50518.github.io/Practice-HTML/mansangon.html ``| [GO](https://manish50518.github.io/Practice-HTML/mansangon.html) |
 | 37 | Flipkart 1st page |`` https://manish50518.github.io/Practice-HTML/Flipkart%201st.html ``| [GO](https://manish50518.github.io/Practice-HTML/Flipkart%201st.html) |
 
-
-
-
