@@ -3,7 +3,7 @@
 
 
 | S.No | Projects | Live Link | Click To Go  |
-| :----: | :--------: | :---------: | ------------: |
+| :----: | :--------: | :---------: | :------------: |
 | 1 | W3 School login |`` https://manish50518.github.io/Practice-HTML/w3%20scl%20login.html ``| [GO](https://manish50518.github.io/Practice-HTML/w3%20scl%20login.html) |
 | 2 | Facebook Main login |`` https://manish50518.github.io/Practice-HTML/boot%20face.html ``| [GO](https://manish50518.github.io/Practice-HTML/boot%20face.html) |
 | 3 | Facebook sign in page |`` https://manish50518.github.io/Practice-HTML/facebook%20sign%20up%20page.html ``| [GO](https://manish50518.github.io/Practice-HTML/facebook%20sign%20up%20page.html) |
